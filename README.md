@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 
 I'm Allan, an iOS developer currently based in Kazakhstan
 I build software programmatically. I love to build projects and take the craft seriously, I'll model the architecture, code the views, and ship it.
@@ -19,4 +19,4 @@ Fun Facts:
 * Hobbies: reading, running, watching movies
 
 * “Skills are something you polish, Talent is something you make bloom” is among my favorite sayings
--->
+
