@@ -1,22 +1,23 @@
 ## Hi there 👋
 
 
-
 I'm Allan, an iOS developer currently based in Kazakhstan
-I build software programmatically. I love to build projects and take the craft seriously, I'll model the architecture, code the views, and ship it.
+I build software programmatically. 
+I love to build projects and take the craft seriously, I'll model the architecture, code the views, and ship it.
 
 My primary focus is iOS development, building clean interfaces using Swift, programmatic UIKit, SnapKit, and SwiftUI. 
 My go-to tools for planning and design are Xcode, Figma, and Anytype.
 
-Among my projects, my favorite right now is Özinşе—a full UIKit video streaming app UI built without Storyboards, complete with custom presentation sheets, dynamic localizations, and programmatic navigation.
-I'm continuously building learning, public repos, diving deep into app lifecycles, layout engines, and real-world architectures.
+Among my projects, my favorite right now is Özinşе—a full UIKit video streaming app UI built without Storyboards, 
+complete with custom presentation sheets, dynamic localizations, and programmatic navigation.
+
+I'm continuously building learning, public repos, diving deep into app lifecycles, 
+layout engines, and real-world architectures.
 Take a look around my GitHub to see what I'm currently working on!
 
 
 Fun Facts:
-
 * I have a dog 
 * Hobbies: reading, running, watching movies
-
 * “Skills are something you polish, Talent is something you make bloom” is among my favorite sayings
 
