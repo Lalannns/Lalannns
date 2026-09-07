@@ -19,5 +19,5 @@ Take a look around my GitHub to see what I'm currently working on!
 Fun Facts:
 * I have a dog 
 * Hobbies: reading, running, watching movies
-* “Skills are something you polish, Talent is something you make bloom” is among my favorite sayings
+* “Because people don't have wings, we look for ways to fly” is among my favorite sayings
 
