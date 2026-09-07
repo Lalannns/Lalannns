@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I'm Allan, an iOS developer currently based in Kazakhstan
+I'm Allan, an iOS developer currently based in Kazakhstan.
 I build software programmatically. 
 I love to build projects and take the craft seriously, I'll model the architecture, code the views, and ship it.
 
