@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I'm Allan, an iOS developer currently based in Kazakhstan.
+I'm Allan, an iOS developer currently based in Hof,Bavaria,Germany.
 I build software programmatically. 
 I love to build projects and take the craft seriously, I'll model the architecture, code the views, and ship it.
 
@@ -17,7 +17,6 @@ Take a look around my GitHub to see what I'm currently working on!
 
 
 Fun Facts:
-* I have a dog 
 * Hobbies: reading, running, watching movies
 * “Because people don't have wings, we look for ways to fly” is among my favorite sayings
 
